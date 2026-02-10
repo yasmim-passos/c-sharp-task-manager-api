@@ -212,8 +212,6 @@ GET /api/tasks
 
 ## 🎓 O que este projeto demonstra?
 
-### Para a Vaga de Estágio - Claps
-
 ✅ **Conhecimento básico em POO usando C#**
 - Classes, Objetos, Properties
 - Herança (User herda Person)
@@ -275,38 +273,6 @@ public class TaskService : ITaskService
 
 ---
 
-## 🎯 Alinhamento com Requisitos da Vaga
-
-| Requisito | Como está demonstrado |
-|-----------|----------------------|
-| **POO em C#** | ✅ Classes, Herança, Interfaces, Polimorfismo |
-| **Trabalho em equipe** | ✅ Código organizado, fácil de entender |
-| **Comunicação** | ✅ Documentação clara, comentários |
-| **Proatividade** | ✅ Projeto completo e funcional |
-| **Raciocínio lógico** | ✅ Lógica de negócio bem estruturada |
-
----
-
-## 🎤 Como Apresentar na Entrevista
-
-### Exemplo de Explicação:
-
-> "Desenvolvi uma API de gerenciamento de tarefas em **C# com .NET 8** para demonstrar 
-> meus conhecimentos em **Programação Orientada a Objetos**. 
->
-> O projeto utiliza:
-> - **Herança**: A classe `User` herda de `Person`
-> - **Polimorfismo**: Override do método `GetInfo()`
-> - **Interfaces**: `ITaskService` define o contrato
-> - **Encapsulamento**: Properties e métodos privados
-> - **Abstração**: Separação de responsabilidades em camadas
->
-> Além disso, implementei uma **API REST completa** com **Entity Framework**, 
-> **Swagger** para documentação, e segui **boas práticas** como 
-> **Injeção de Dependência** e **async/await**."
-
----
-
 ## 📁 Arquivos Principais
 
 ### Models/Task.cs
@@ -351,7 +317,6 @@ public class TaskService : ITaskService
 ## 👤 Autor
 
 **Yasmim Passos**  
-Candidata à vaga de Estágio - Desenvolvedor Backend  
 📧 passosyasmim08@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/yasmim-passos-037676212/)
 
